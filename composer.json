@@ -3,7 +3,7 @@
   "type": "mediawiki-extension",
   "description": "MediaWiki icon extension.",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://gitlab.com/marketplace-mediawiki",
+  "homepage": "https://github.com/marketplace-mediawiki",
   "keywords": [
     "mediawiki",
     "font awesome"
@@ -28,8 +28,8 @@
     }
   ],
   "support": {
-    "issues": "https://gitlab.com/marketplace-mediawiki/mediawiki-ext-icon/issues",
-    "source": "https://gitlab.com/marketplace-mediawiki/mediawiki-ext-icon"
+    "issues": "https://github.com/marketplace-mediawiki/mediawiki-ext-icon/issues",
+    "source": "https://github.com/marketplace-mediawiki/mediawiki-ext-icon"
   },
   "require": {
     "composer/installers": "~1.0",
